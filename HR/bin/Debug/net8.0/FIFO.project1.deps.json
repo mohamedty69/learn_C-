@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FIFO.project1/1.0.0": {
+        "dependencies": {
+          "FIFO.AUTO": "1.0.0",
+          "FIFO.HR": "1.0.0"
+        },
+        "runtime": {
+          "FIFO.project1.dll": {}
+        }
+      },
+      "FIFO.AUTO/1.0.0": {
+        "runtime": {
+          "FIFO.AUTO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FIFO.HR/1.0.0": {
+        "runtime": {
+          "FIFO.HR.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FIFO.project1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIFO.AUTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIFO.HR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

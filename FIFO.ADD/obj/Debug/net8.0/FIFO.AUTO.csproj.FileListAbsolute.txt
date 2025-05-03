@@ -1,0 +1,11 @@
+C:\Users\hamom\source\repos\Project\FIFO.ADD\bin\Debug\net8.0\FIFO.AUTO.deps.json
+C:\Users\hamom\source\repos\Project\FIFO.ADD\bin\Debug\net8.0\FIFO.AUTO.dll
+C:\Users\hamom\source\repos\Project\FIFO.ADD\bin\Debug\net8.0\FIFO.AUTO.pdb
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\FIFO.AUTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\FIFO.AUTO.AssemblyInfoInputs.cache
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\FIFO.AUTO.AssemblyInfo.cs
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\FIFO.AUTO.csproj.CoreCompileInputs.cache
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\FIFO.AUTO.dll
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\refint\FIFO.AUTO.dll
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\FIFO.AUTO.pdb
+C:\Users\hamom\source\repos\Project\FIFO.ADD\obj\Debug\net8.0\ref\FIFO.AUTO.dll
