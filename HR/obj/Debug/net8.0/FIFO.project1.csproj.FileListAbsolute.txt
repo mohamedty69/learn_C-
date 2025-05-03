@@ -18,3 +18,4 @@ C:\Users\hamom\source\repos\Project\HR\obj\Debug\net8.0\FIFO.project1.genruntime
 C:\Users\hamom\source\repos\Project\HR\obj\Debug\net8.0\ref\FIFO.project1.dll
 C:\Users\hamom\source\repos\Project\HR\bin\Debug\net8.0\FIFO.AUTO.dll
 C:\Users\hamom\source\repos\Project\HR\bin\Debug\net8.0\FIFO.AUTO.pdb
+C:\Users\hamom\source\repos\Project\HR\obj\Debug\net8.0\FIFO.project1.sourcelink.json

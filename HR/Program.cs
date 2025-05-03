@@ -246,13 +246,15 @@ namespace FIFO.project1
 			//	Console.WriteLine($" {charr} ");
 			//}
 			//convert from hexa to int
-			var hex = "8E2";
-			var number = int.Parse(hex, System.Globalization.NumberStyles.HexNumber);
-			Console.WriteLine($" {number} ");
-			var hex1 = Convert.ToString(number, 16);
-			Console.WriteLine($" {hex1} ");
+			//var hex = "8E2";
+			//var number = int.Parse(hex, System.Globalization.NumberStyles.HexNumber);
+			//Console.WriteLine($" {number} ");
+			// convert from int to hexa
+			//var hex1 = Convert.ToString(number, 16);
+			//Console.WriteLine($" {hex1} ");
 
 			//====================================================================
+			//  problem :
 		}
 	}
 }

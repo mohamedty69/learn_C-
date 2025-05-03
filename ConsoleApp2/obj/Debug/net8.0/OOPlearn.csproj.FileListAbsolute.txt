@@ -1,0 +1,15 @@
+C:\Users\hamom\source\repos\Project\ConsoleApp2\bin\Debug\net8.0\OOPlearn.exe
+C:\Users\hamom\source\repos\Project\ConsoleApp2\bin\Debug\net8.0\OOPlearn.deps.json
+C:\Users\hamom\source\repos\Project\ConsoleApp2\bin\Debug\net8.0\OOPlearn.runtimeconfig.json
+C:\Users\hamom\source\repos\Project\ConsoleApp2\bin\Debug\net8.0\OOPlearn.dll
+C:\Users\hamom\source\repos\Project\ConsoleApp2\bin\Debug\net8.0\OOPlearn.pdb
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.AssemblyInfoInputs.cache
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.AssemblyInfo.cs
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.csproj.CoreCompileInputs.cache
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.sourcelink.json
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.dll
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\refint\OOPlearn.dll
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.pdb
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\OOPlearn.genruntimeconfig.cache
+C:\Users\hamom\source\repos\Project\ConsoleApp2\obj\Debug\net8.0\ref\OOPlearn.dll
