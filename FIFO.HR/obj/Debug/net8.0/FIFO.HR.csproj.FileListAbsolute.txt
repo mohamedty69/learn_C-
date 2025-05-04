@@ -9,3 +9,15 @@ C:\Users\hamom\source\repos\Project\FIFO.HR\obj\Debug\net8.0\FIFO.HR.dll
 C:\Users\hamom\source\repos\Project\FIFO.HR\obj\Debug\net8.0\refint\FIFO.HR.dll
 C:\Users\hamom\source\repos\Project\FIFO.HR\obj\Debug\net8.0\FIFO.HR.pdb
 C:\Users\hamom\source\repos\Project\FIFO.HR\obj\Debug\net8.0\ref\FIFO.HR.dll
+C:\PROJECT1\learn_C-\FIFO.HR\bin\Debug\net8.0\FIFO.HR.deps.json
+C:\PROJECT1\learn_C-\FIFO.HR\bin\Debug\net8.0\FIFO.HR.dll
+C:\PROJECT1\learn_C-\FIFO.HR\bin\Debug\net8.0\FIFO.HR.pdb
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\FIFO.HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\FIFO.HR.AssemblyInfoInputs.cache
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\FIFO.HR.AssemblyInfo.cs
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\FIFO.HR.csproj.CoreCompileInputs.cache
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\FIFO.HR.sourcelink.json
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\FIFO.HR.dll
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\refint\FIFO.HR.dll
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\FIFO.HR.pdb
+C:\PROJECT1\learn_C-\FIFO.HR\obj\Debug\net8.0\ref\FIFO.HR.dll

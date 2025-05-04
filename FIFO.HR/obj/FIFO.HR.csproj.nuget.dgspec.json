@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamom\\source\\repos\\Project\\FIFO.HR\\FIFO.HR.csproj": {}
+    "C:\\PROJECT1\\learn_C-\\FIFO.HR\\FIFO.HR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamom\\source\\repos\\Project\\FIFO.HR\\FIFO.HR.csproj": {
+    "C:\\PROJECT1\\learn_C-\\FIFO.HR\\FIFO.HR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamom\\source\\repos\\Project\\FIFO.HR\\FIFO.HR.csproj",
+        "projectUniqueName": "C:\\PROJECT1\\learn_C-\\FIFO.HR\\FIFO.HR.csproj",
         "projectName": "FIFO.HR",
-        "projectPath": "C:\\Users\\hamom\\source\\repos\\Project\\FIFO.HR\\FIFO.HR.csproj",
-        "packagesPath": "C:\\Users\\hamom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamom\\source\\repos\\Project\\FIFO.HR\\obj\\",
+        "projectPath": "C:\\PROJECT1\\learn_C-\\FIFO.HR\\FIFO.HR.csproj",
+        "packagesPath": "C:\\Users\\afndy\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJECT1\\learn_C-\\FIFO.HR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hamom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\afndy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
