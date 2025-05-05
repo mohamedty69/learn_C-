@@ -115,6 +115,9 @@ namespace FIFO.OOPlearn
             //e2.takeinfofromemp();
             //Console.WriteLine(e2.calculatesalary());
             //Player p1 = Player.CreatePlayer("Ahmed", "Ramy", 1);
+            Dollar d1 = new Dollar(100);
+            d1.AddAmount(100); // USING SET
+            Console.WriteLine(d1.Amount); // USING GET
         }
     }
 }
